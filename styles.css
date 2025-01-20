@@ -34,20 +34,20 @@ body {
 }
 
 .stars-L {
-  background-image: url("assets/stars-1.png");
+  background-image: url("stars-1.png");
   background-size: 890px;
   height: 750px;
   animation: panning-stars 60s linear infinite alternate;
 }
 
 .stars-M {
-  background-image: url("assets/stars-2.png");
+  background-image: url("stars-2.png");
   height: 530px;
   animation: panning-stars 60s linear infinite alternate;
 }
 
 .stars-S {
-  background-image: url("assets/stars-3.png");
+  background-image: url("stars-3.png");
   height: 370px;
   animation: panning-stars 60s linear infinite alternate;
 }
